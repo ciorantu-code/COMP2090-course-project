@@ -1,4 +1,6 @@
 # 🎓 Student Lifeline (2090 Version)
+<img width="1338" height="929" alt="image" src="https://github.com/user-attachments/assets/79413bbd-7edd-4ff0-b9fe-4eb00947a3ce" />
+
 
 **Hong Kong Metropolitan University (HKMU) - COMP2090SEF Course Project** *Data Structures, Algorithms and Problem Solving*
 
