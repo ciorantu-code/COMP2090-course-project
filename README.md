@@ -70,6 +70,6 @@ student-lifeline-2090/
 ## 📂 Task2
 Graph ADT&Dijkstra’s Algorithm/
 │
-├── demo.py   # light programme that demonstrate the idea of the topics
+├── dijkstra_graph.py   # Simple light programme that demonstrate the idea of the algorithim
 └── Task2_intro.mp4      # introduction of the study report
 └── READMETask2.md                         # Project documentation
