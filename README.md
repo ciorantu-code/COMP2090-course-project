@@ -54,7 +54,7 @@ This project was evolved from a legacy procedural script into a highly modular, 
 
 ---
 
-## 📂 Project Structure
+## 📂 Task 1 Project Structure
 
 ```text
 student-lifeline-2090/
